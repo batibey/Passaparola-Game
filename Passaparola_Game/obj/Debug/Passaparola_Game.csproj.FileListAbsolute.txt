@@ -1,0 +1,10 @@
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\bin\Debug\Passaparola_Game.exe.config
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\bin\Debug\Passaparola_Game.exe
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\bin\Debug\Passaparola_Game.pdb
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\obj\Debug\Passaparola_Game.csprojAssemblyReference.cache
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\obj\Debug\Passaparola_Game.Form1.resources
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\obj\Debug\Passaparola_Game.Properties.Resources.resources
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\obj\Debug\Passaparola_Game.csproj.GenerateResource.cache
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\obj\Debug\Passaparola_Game.csproj.CoreCompileInputs.cache
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\obj\Debug\Passaparola_Game.exe
+C:\Users\Batı\source\repos\Passaparola_Game\Passaparola_Game\obj\Debug\Passaparola_Game.pdb
